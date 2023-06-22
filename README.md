@@ -1,4 +1,5 @@
 # Enumerable# Enumerable
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -71,7 +72,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Ruby
-- VS code editor 
+- VS code editor
 
 ### Setup
 
@@ -79,15 +80,16 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/aima98/Enumerable.git
+  git clone https://github.com/osmanwako/enumerable.git
 ```
 
-```
+````
 ### Run tests
 To run tests, run the following command:
 ```sh
   rspec mylist_test.rb
-```
+````
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -97,7 +99,7 @@ To run tests, run the following command:
 👤 **Oumaima Nejjari**
 
 - GitHub: [@aima98](https://github.com/aima98)
-- LinkedIn: [Oumaima Nejjari](https://www.linkedin.com/in/oumaima-nejjari-375065171/)
+- LinkedIn: [Oumaima Nejjari](https://www.linkedin.com/in/oumaimanejjari)
 
 👤 **kimita wanjohi**
 
@@ -128,7 +130,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aima98/Enumerable/issues).
+Feel free to check the [issues page](https://github.com/osmanwako/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
